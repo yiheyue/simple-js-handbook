@@ -9,3 +9,5 @@ A handbook for quick search the content of JavaScript.
 - [Standardization](./docs/standard.md) & [Version history](./docs/version.md)
 
 - [Hello World!](./scripts/hello.js)
+
+- [Keywords](./docs/keywords.md) & [Reserved words](./docs/reserved.md)
