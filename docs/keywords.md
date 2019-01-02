@@ -11,4 +11,4 @@ debugger (*)  function    this          with
 default       if          throw
 delete        in          try
 ```
-> * - new in ES5
+> \* new in ES5

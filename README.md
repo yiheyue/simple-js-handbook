@@ -11,3 +11,5 @@ A handbook for quick search the content of JavaScript.
 - [Hello World!](./scripts/hello.js)
 
 - [Keywords](./docs/keywords.md) & [Reserved words](./docs/reserved.md)
+
+- [Basic syntax](./scripts/basic.js)
