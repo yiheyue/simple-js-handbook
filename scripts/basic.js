@@ -12,8 +12,8 @@ var isEmpty = true;
 
 /* Data types */
 /*
- * There are 6 data types in JavaScript.
- * undefined  null  boolean  number  string  object
+ * There are 7 data types in JavaScript.
+ * undefined  null  boolean  number  string  object  symbol(new in ES6)
  */
 /*
  * typeof keyword return value:
@@ -27,6 +27,16 @@ var isEmpty = true;
 console.log(typeof(15));
 console.log(typeof(true));
 console.log(typeof('hello'));
+
+/* Convert data types */
+// explicit
+var num = 12;
+console.log(typeof num); // number
+num = String(num);
+console.log(typeof num); // string
+
+// implicit
+'99' == 99;
 
 /* Control flow */
 // if-else
