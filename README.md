@@ -13,3 +13,7 @@ A handbook for quick search the content of JavaScript.
 - [Keywords](./docs/keywords.md) & [Reserved words](./docs/reserved.md)
 
 - [Basic syntax](./scripts/basic.js)
+
+- [Input & Output](./scripts/io.js)
+
+- [Most common operators](./scripts/optr.js)
