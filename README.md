@@ -17,3 +17,11 @@ A handbook for quick search the content of JavaScript.
 - [Input & Output](./scripts/io.js)
 
 - [Most common operators](./scripts/optr.js)
+
+- [Object](./scripts/obj.js)
+
+- [Array](./scripts/arr.js)
+
+- [Function](./scripts/func.js)
+
+- [IIFE](./scripts/iife.js)
