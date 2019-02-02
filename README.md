@@ -25,3 +25,7 @@ A handbook for quick search the content of JavaScript.
 - [Function](./scripts/func.js)
 
 - [IIFE](./scripts/iife.js)
+
+- [RegExp](./scripts/regexp.js)
+
+- [Date](./scripts/date.js)
