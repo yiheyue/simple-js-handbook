@@ -29,3 +29,5 @@ A handbook for quick search the content of JavaScript.
 - [RegExp](./scripts/regexp.js)
 
 - [Date](./scripts/date.js)
+
+- [Constructor](./scripts/cons.js)
