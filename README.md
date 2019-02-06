@@ -2,6 +2,8 @@
 
 A handbook for quick search the content of JavaScript.
 
+This project will be rebuild.
+
 ## Index
 
 - [Simple introduction](./docs/intro.md)
